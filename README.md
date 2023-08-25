@@ -14,4 +14,10 @@ Learn and Practice Responsive Web Development by building 8 Websites with given 
 - **Interior Consultant**  
 [live site](https://amansgz.github.io/css-interior-consultant/) / [code](https://github.com/amansgz/css-interior-consultant)
 
+- **Recipe Page**  
+[live site]() / [code]()
+
+- **My Gallery**  
+[live site](https://amansgz.github.io/css-my-gallery/) / [code](https://github.com/amansgz/css-my-gallery)
+
 
