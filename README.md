@@ -20,4 +20,7 @@ Learn and Practice Responsive Web Development by building 8 Websites with given 
 - **My Gallery**  
 [live site](https://amansgz.github.io/css-my-gallery/) / [code](https://github.com/amansgz/css-my-gallery)
 
+- **Checkout Page**  
+[live site](https://amansgz.github.io/css-checkout-page/) / [code](https://github.com/amansgz/css-checkout-page)
+
 
