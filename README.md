@@ -1,11 +1,11 @@
-# DevChallenges Solutions
+# 👩‍💻 DevChallenges Solutions
 
 
 ## Path Responsive Web Developer
 Learn and Practice Responsive Web Development by building 8 Websites with given designs from [DevChallenges](https://devchallenges.io/paths/responsive-web-developer)
 
-### **404 Not Found**   
-- Solution: [live site](https://amansgz.github.io/css-404-not-found/) / [code](https://github.com/amansgz/css-404-not-found) 
+- **404 Not Found**   
+  - Solution: [live site](https://amansgz.github.io/css-404-not-found/) / [code](https://github.com/amansgz/css-404-not-found) 
 
 ### **My Team Page**  
 - Solution: [live site](https://amansgz.github.io/css-my-team-page/) / [code](https://github.com/amansgz/css-my-team-page) 
