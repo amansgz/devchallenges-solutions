@@ -23,4 +23,4 @@ Learn and Practice Responsive Web Development by building 8 Websites with given 
 - Solution: [live site](https://amansgz.github.io/css-checkout-page/) / [code](https://github.com/amansgz/css-checkout-page)
 
 ### **Edie Homepage**   
-- [live site](https://amansgz.github.io/css-my-gallery/) / [code](https://github.com/amansgz/css-my-gallery)
+- [live site](https://amansgz.github.io/css-edie-homepage/) / [code](https://github.com/amansgz/css-edie-homepage)
