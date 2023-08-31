@@ -24,3 +24,23 @@ Learn and Practice Responsive Web Development by building 8 Websites with given 
 
 ### **Edie Homepage**   
 - [live site](https://amansgz.github.io/css-edie-homepage/) / [code](https://github.com/amansgz/css-edie-homepage)
+
+## Front-end Developer    
+
+Become Front-end Developer by building 8 real-life projects, you can use any Front-end frameworks
+
+### Button Component
+
+### Input Component
+
+### Windbnb
+
+### Todo App
+
+### Random Quote Generator
+
+### Country Quiz
+
+### Weather App
+
+### Github Jobs
