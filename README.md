@@ -8,20 +8,18 @@ Learn and Practice Responsive Web Development by building 8 Websites with given 
 ### **404 Not Found**    
 Challenge: Create a 404 not found page following the design.    
 
+[live site](https://amansgz.github.io/css-404-not-found/) / [code](https://github.com/amansgz/css-404-not-found)     
+ 
 <img src= "https://github.com/amansgz/css-404-not-found/blob/df29c20b7d830920f7526bf537f0d091de4d8f59/assets/preview.png" title= "404 not found" alt= "404 not found" width= "230">      
 
-[live site](https://amansgz.github.io/css-404-not-found/) / [code](https://github.com/amansgz/css-404-not-found)     
-
-CSS
-  
 
 ### **My Team Page**
-
-<img src= "" title= "" alt= "" width= "230">      
+Challenge: Create my team page following the design.    
 
 [live site](https://amansgz.github.io/css-my-team-page/) / [code](https://github.com/amansgz/css-my-team-page) 
 
-CSS Grid
+<img src= "https://github.com/amansgz/css-my-team-page/blob/22533edc09cf38e32b851de59d9580547b6017bf/assets/preview.png" title= "" alt= "" width= "230">      
+
 
 ### **Interior Consultant**  
 
