@@ -46,7 +46,7 @@ Challenge: Create a static page with HTML and CSS following the designs.
 
 
 ### **Checkout Page**  
-Challenge: Create a checkout page following the design. input types and validation.  
+Challenge: Create a checkout page following the design, input types and validation.  
 
 [live site](https://amansgz.github.io/css-checkout-page/) / [code](https://github.com/amansgz/css-checkout-page)
 
