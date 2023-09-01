@@ -22,9 +22,12 @@ Challenge: Create my team page following the design.
 
 
 ### **Interior Consultant**  
+Challenge: Create a homepage following the design.    
 
-<img src= "" title= "" alt= "" width= "230">      
 [live site](https://amansgz.github.io/css-interior-consultant/) / [code](https://github.com/amansgz/css-interior-consultant)
+
+<img src= "https://github.com/amansgz/css-interior-consultant/blob/0c90528122b3926b18434d5979f35ed0461fbe95/assets/preview.png" title= "" alt= "" width= "230">      
+
 
 ### **Recipe Page**  
 
