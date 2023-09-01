@@ -50,7 +50,7 @@ Challenge: Create a checkout page following the design. input types and validati
 
 [live site](https://amansgz.github.io/css-checkout-page/) / [code](https://github.com/amansgz/css-checkout-page)
 
-<img src= "" title= "" alt= "" width= "230">      
+<img src= "https://github.com/amansgz/css-checkout-page/blob/9161162c21f7f4f4f8950edfb0f8385e971cfe1c/assets/preview.png" title= "" alt= "" width= "230">      
 
 
 ### **Edie Homepage**   
@@ -58,7 +58,7 @@ Challenge: Create a static page with HTML and CSS following the designs.
 
 [live site](https://amansgz.github.io/css-edie-homepage/) / [code](https://github.com/amansgz/css-edie-homepage)
 
-<img src= "" title= "" alt= "" width= "230">      
+<img src= "https://github.com/amansgz/css-edie-homepage/blob/6c06d5a1e9d67135cf64bac5a09956081edfd302/assets/preview.png" title= "" alt= "" width= "230">      
 
 
 ## Front-end Developer    
