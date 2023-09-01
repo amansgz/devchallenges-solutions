@@ -30,14 +30,20 @@ Challenge: Create a homepage following the design.
 
 
 ### **Recipe Page**  
+Challenge: Create a recipe page following the given design.    
 
-<img src= "" title= "" alt= "" width= "230">      
 [live site](https://amansgz.github.io/css-recipe-page/) / [code](https://github.com/amansgz/css-recipe-page)
 
+<img src= "https://github.com/amansgz/css-recipe-page/blob/185486694cb50d65d69d77a74e801b16710729db/assets/preview.png" title= "" alt= "" width= "230">      
+
+
 ### **My Gallery**  
+Challenge: Create a static page with HTML and CSS following the designs.   
+
+[live site](https://amansgz.github.io/css-my-gallery/) / [code](https://github.com/amansgz/css-my-gallery)
 
 <img src= "" title= "" alt= "" width= "230">      
-[live site](https://amansgz.github.io/css-my-gallery/) / [code](https://github.com/amansgz/css-my-gallery)
+
 
 ### **Checkout Page**  
 
