@@ -42,18 +42,24 @@ Challenge: Create a static page with HTML and CSS following the designs.
 
 [live site](https://amansgz.github.io/css-my-gallery/) / [code](https://github.com/amansgz/css-my-gallery)
 
-<img src= "" title= "" alt= "" width= "230">      
+<img src= "https://github.com/amansgz/css-my-gallery/blob/e8dc67756a166601bb7393d78cc572d974c6ff3e/assets/preview.png" title= "" alt= "" width= "230">      
 
 
 ### **Checkout Page**  
+Challenge: Create a checkout page following the design. input types and validation.  
 
-<img src= "" title= "" alt= "" width= "230">      
 [live site](https://amansgz.github.io/css-checkout-page/) / [code](https://github.com/amansgz/css-checkout-page)
 
+<img src= "" title= "" alt= "" width= "230">      
+
+
 ### **Edie Homepage**   
+Challenge: Create a static page with HTML and CSS following the designs.   
+
+[live site](https://amansgz.github.io/css-edie-homepage/) / [code](https://github.com/amansgz/css-edie-homepage)
 
 <img src= "" title= "" alt= "" width= "230">      
-[live site](https://amansgz.github.io/css-edie-homepage/) / [code](https://github.com/amansgz/css-edie-homepage)
+
 
 ## Front-end Developer    
 
