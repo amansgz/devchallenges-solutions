@@ -60,23 +60,3 @@ Challenge: Create a static page with HTML and CSS following the designs.
 
 <img src= "https://github.com/amansgz/css-edie-homepage/blob/6c06d5a1e9d67135cf64bac5a09956081edfd302/assets/preview.png" title= "" alt= "" width= "230">      
 
-
-## Front-end Developer    
-
-Become Front-end Developer by building 8 real-life projects, you can use any Front-end frameworks
-
-- Button Component
-
-- Input Component
-
-- Windbnb
-
-- Todo App
-
-- Random Quote Generator
-
-- Country Quiz
-
-- Weather App
-
-- Github Jobs
