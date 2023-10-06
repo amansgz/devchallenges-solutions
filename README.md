@@ -1,4 +1,4 @@
-# 👩‍💻 DevChallenges Solutions
+# 👩‍💻 Legacy DevChallenges Solutions
 
 ## Path Responsive Web Developer
 
