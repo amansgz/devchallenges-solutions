@@ -2,7 +2,7 @@
 
 ## Path Responsive Web Developer
 
-Learn and Practice Responsive Web Development by building 8 Websites with given Figma designs from [DevChallenges](https://legacy.devchallenges.io/paths/responsive-web-developer)
+Learn and Practice Responsive Web Development by building 8 Websites with given Figma designs from [Legacy DevChallenges](https://legacy.devchallenges.io/paths/responsive-web-developer)
 
 
 ### **404 Not Found**    
